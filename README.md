@@ -1,3 +1,5 @@
+![Python checks](https://github.com/leakquicked/fileintegrity-watch/actions/workflows/python-checks.yml/badge.svg)
+
 # FileIntegrity Watch
 
 A local file-integrity monitor that records SHA-256 hashes and later detects modified or missing files.
